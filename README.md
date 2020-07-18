@@ -7,7 +7,7 @@ I also have a weak spot for Serif font faces with a focus on high legibility of 
 
 ### 💻 Notable Projects
 
-I've built a few products for the Internet through my own company, [Octane Software](https://www.octanesoftware.net) like a web hosting company for ambitious digital experiences ([MojoEngine](https://www.mojoengine.com)) and the world's first third-level domain registry ([Resolve Zero](https://resolvezero.com)). Some notable projects I've created or contributed to on GitHub include:
+Some projects I've created or contributed to on GitHub include:
 
 - 🚀 [Xamarin.Forms Video Player](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer) - a cross-platform video player for Xamarin.Forms developers (700+ copies sold 💰)
 - 🚀 [Apache NiFi](https://github.com/apache/nifi) created the `DetectDuplicateRecord` processor block using Google's Bloom Filter implementation to efficiently detect duplicates with finite memory.

@@ -1,4 +1,8 @@
-### Hi there 👋
+## [![](https://github.com/adamfisher/adamfisher/blob/master/bio-header.png)](https://www.adams.life)
+
+## Hello there! My name is Adam. 👋🤓
+
+I'm a Backend Software Developer with interests in C#, .NET Core, Apache NiFi (ETL data transformation and loading), and Internet platforms.
 
 <!--
 **adamfisher/adamfisher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

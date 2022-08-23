@@ -2,15 +2,15 @@
 
 <h2 align="center">Hey there! My name is Adam. 👋🤓</h2>
 
-<p align="center">I'm a Backend Software Developer with interests in C#, .NET Core, Apache NiFi, mobile development (Xamarin/React Native), and cloud software platforms.
-I also have a weak spot for Serif font faces with a focus on high legibility of text on computer screens. Some might say I'm a slight bit obsessed with DNS infrastructure as well.</p>
+<p align="center">I'm a Backend Software Developer with interests in C#, .NET Core, Apache NiFi, and SaaS products.
+I also have a weak spot for Serif font faces with a focus on high legibility of text on computer screens. I'm also obsessed with DNS infrastructure and the domain name system as well.</p>
 
 ### 💻 Notable Projects
 
 Some projects I've created or contributed to on GitHub include:
 
 - 🚀 [Xamarin.Forms Video Player](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer) - a cross-platform video player for Xamarin.Forms developers (700+ copies sold 💰)
-- 🚀 [Apache NiFi](https://github.com/apache/nifi) created the `DetectDuplicateRecord` processor block using Google's Bloom Filter implementation to efficiently detect duplicates with finite memory.
+- 🚀 [Apache NiFi](https://github.com/apache/nifi) contributed the [`DeduplicateRecord`](https://github.com/apache/nifi/blob/main/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/DeduplicateRecord.java) processor block using Google's Bloom Filter implementation to efficiently detect duplicates with finite memory.
 
 
 

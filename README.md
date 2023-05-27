@@ -10,7 +10,7 @@ I also have a weak spot for Serif font faces with a focus on high legibility of 
 Some projects I've created or contributed to on GitHub include:
 
 - 🚀 [Xamarin.Forms Video Player](https://github.com/adamfisher/Xamarin.Forms.VideoPlayer) - a cross-platform video player for Xamarin.Forms developers (700+ copies sold 💰)
-- 🚀 [Apache NiFi](https://github.com/apache/nifi) contributed the [`DeduplicateRecord`]([https://github.com/apache/nifi/blob/main/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/DeduplicateRecord.java](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.12.1/org.apache.nifi.processors.standard.DeduplicateRecord/)) processor block using Google's Bloom Filter implementation to efficiently detect duplicates with finite memory.
+- 🚀 [Apache NiFi](https://github.com/apache/nifi) contributed the [`DeduplicateRecord`](https://nifi.apache.org/docs/nifi-docs/components/org.apache.nifi/nifi-standard-nar/1.12.1/org.apache.nifi.processors.standard.DeduplicateRecord/) processor block using Google's Bloom Filter implementation to efficiently detect duplicates with finite memory.
 
 
 

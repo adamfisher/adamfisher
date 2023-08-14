@@ -1,9 +1,9 @@
-## [![](https://github.com/adamfisher/adamfisher/blob/master/images/bio-header.png)](https://www.adams.life)
+## [![](https://github.com/adamfisher/adamfisher/blob/master/images/bio-header.png)](https://linktr.ee/adamfisher)
 
-<h2 align="center">Hey there! My name is Adam. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Adam. 👋🤓</h2>
 
-<p align="center">I'm a Backend Software Developer with interests in C#, .NET Core, Apache NiFi, and SaaS products.
-I also have a weak spot for Serif font faces with a focus on high legibility of text on computer screens. I'm also obsessed with DNS infrastructure and the domain name system as well.</p>
+I'm a Backend Software Developer with interests in C#, .NET Core, Apache NiFi, and SaaS products.
+I also have a weak spot for Serif font faces with a focus on high legibility of text on computer screens. I'm also obsessed with DNS infrastructure and the domain name system as well.
 
 ### 💻 Notable Projects
 
